@@ -10,7 +10,7 @@ body{
     width: 100vw;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-evenly;
     text-align: center;
     align-items: center;
 }
@@ -22,6 +22,7 @@ body{
     font-size: 5rem;
     color: #fff;
     word-wrap: break-word;
+    margin:0px
 }
 #query{
     background: #09304A;
