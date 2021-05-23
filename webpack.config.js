@@ -10,11 +10,7 @@ module.exports = {
     mode : 'production',
     module :{
         rules : [
-            {
-                test: /\.(js)$/,
-                exclude: /node_modules/,
-                use: ['babel-loader']
-              },
+      
             {
                 test : /\.(png|jpg)$/,
                 type : 'asset/resource'
