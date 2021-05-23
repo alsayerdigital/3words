@@ -1,3 +1,4 @@
+import './style.css' ;
 const query = document.querySelector('#query');
 const words = document.querySelector('#words');
 const points = document.querySelector('#points');
