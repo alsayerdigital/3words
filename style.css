@@ -10,7 +10,7 @@ body{
     width: 100vw;
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-around;
     text-align: center;
     align-items: center;
 }
